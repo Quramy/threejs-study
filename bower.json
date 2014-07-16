@@ -9,7 +9,8 @@
     "stats.js": "latest",
     "leapjs": "latest",
     "leapjs-plugins": "~0.1.6",
-    "physijs": "*"
+    "physijs": "*",
+    "threejs-examples": "*"
   },
   "devDependencies": {}
 }
